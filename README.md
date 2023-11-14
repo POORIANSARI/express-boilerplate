@@ -5,7 +5,7 @@ This is a simple boilerplate for building REST APIs in Node.js using Express. In
 Getting Started
 Clone the repository
 
-git clone https://github.com/gadfaria/express-sequelize-boilerplate.git
+git clone https://github.com/pooriansari/express-sequelize-boilerplate.git
 Enter into the directory
 
 cd express-sequelize-boilerplate/
