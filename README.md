@@ -26,7 +26,7 @@ yarn
 
 Set the environment variables
 ```bash
-cp .env.example .env
+cp example.env .env
 ```
 
 Running the boilerplate:
